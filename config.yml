@@ -1,0 +1,19 @@
+URL: https://sjipiao.fliggy.com/searchow/search.htm
+
+QueryParams:
+  _ksTS: 1516798010754_177
+  callback: jsonp178
+  tripType: 0
+  depCity: CTU
+  depCityName: 昆明
+  arrCity: KMG
+  arrCityName:  成都
+  depDate: 2018-02-22
+  searchSource: 99
+  searchBy: 1280
+  sKey:
+  qid:
+  needMemberPrice: true
+  _input_charset: utf-8
+  ua: 090#qCQXZTX2Xu4X24i0XXXXXQkOIoaeTG95fQLCO+fpAGBIzzvmcx7n+DkvIH91jULEXvXQceniifLiXXf8AfIwkvQXisty2Jq95jQiXXxyO1pv/kp3XvXP4aabyT6aoFQNXvXnh9TXLx73OzueG/XUHYV4zehnDXG3HoUZh9kvan73OtReG/XUHYVmd1QiXXCHfQlbQhlNYQlVFyT=
+  openCb: false
