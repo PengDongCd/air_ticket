@@ -9,7 +9,7 @@ import json
 from prettytable import PrettyTable
 
 def load_yaml_config_file():
-    file_path = os.path.join(os.getcwd(), 'config.yml')
+    file_path = os.path.join(os.path.dirname(os.path.abspath(__file__)), 'config.yml')
     with io.open(file_path, 'r', encoding='utf-8') as stream:
         config = yaml.load(stream)
     return config
